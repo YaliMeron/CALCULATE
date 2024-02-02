@@ -166,8 +166,8 @@
         android:layout_height="99dp"
         android:text="/"
         android:textSize="50dp"
-        tools:layout_editor_absoluteX="300dp"
-        tools:layout_editor_absoluteY="233dp" />
+        tools:layout_editor_absoluteX="299dp"
+        tools:layout_editor_absoluteY="232dp" />
 
     <Button
         android:id="@+id/btnac"
