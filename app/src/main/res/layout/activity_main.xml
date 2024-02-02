@@ -174,7 +174,7 @@
         android:layout_width="96dp"
         android:layout_height="99dp"
         android:text="AC"
-        android:textSize="35dp"
+        android:textSize="36.38094902038574218749dp"
         tools:layout_editor_absoluteX="203dp"
         tools:layout_editor_absoluteY="232dp" />
 
